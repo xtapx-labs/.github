@@ -12,7 +12,7 @@ We explore how NFC enables reliable, intent-based connections between objects an
 
 **Provenance and Ownership:** Developing tamper-resistant digital histories for high-value items using dynamic NFC signatures to create immutable chains of custody and combat counterfeiting in resale markets.
 
-**Environmental Intelligence Systems:** Consent-first adaptive environments that respond to feedback inputs, with ML-driven soundscapes balancing personal and group preferences in shared spaces.
+**Ambient Intelligence:** Consent-first adaptive environments that respond to feedback inputs, with ML-driven soundscapes balancing personal and group preferences in shared spaces.
 
 **UX-Security Paradox:** Analyzing trade-offs between intuitive interactions and robust defenses, including social engineering risks, to inform resilient architectures.
 
