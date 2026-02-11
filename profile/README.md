@@ -4,7 +4,7 @@
 
 Based in Red Deer, Alberta, we conduct hands-on experiments to resolve tensions between user-centric design and robust security, critiquing conventional approaches and engineering solutions that scale from individual assets to shared spaces.
 
-## 🔭 Mission: Navigating the Physical-Digital Trust Frontier
+## Mission: Navigating the Physical-Digital Trust Frontier
 
 We explore how NFC enables reliable, intent-based connections between objects and users, challenging the assumption that frictionless experiences inherently compromise security. Instead, we design systems where physical presence serves as a natural safeguard.
 
