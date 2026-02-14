@@ -1,3 +1,4 @@
+# xtapx
 xtapx is an applied research lab based in Red Deer, Alberta, advancing NFC technologies to enable secure, context-aware interactions between physical objects and digital systems. We develop prototypes addressing trust in asset provenance, ambient intelligence, and beyond, balancing user-centric design with robust security.
 
 ## Mission
